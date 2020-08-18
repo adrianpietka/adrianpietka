@@ -1,5 +1,7 @@
 # Hi, my name is Adrian Pietka 😎 👋
 
+![Adrian Piętka - Cover](/adrian-pietka-github.png)
+
 💻 I am **Software Engineer** who love code architecture. I am **fan of CQRS and Hexagonal Architecture** but it isn't only my one silver bullet to solve problems.
 
 🎨 My current tool setup are: **TypeScript** / **JavaScript** / **Node.js** / **Docker** / **AWS**. Sometimes I must touch other programming languages like C# or PHP. I'm not ashamed of that, becouse I try get all positive things from different solutions to **build best software for customer**.
