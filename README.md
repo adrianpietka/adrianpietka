@@ -1,6 +1,6 @@
 # Hi, my name is Adrian Pietka 😎 👋
 
-![Adrian Piętka - Cover](adrian-pietka-github.png)
+![Adrian Piętka - Cover](https://github.com/adrianpietka/adrianpietka/raw/master/adrian-pietka-github.png)
 
 💻 I am **Software Engineer** who love code architecture. I am **fan of CQRS and Hexagonal Architecture** but it isn't only my one silver bullet to solve problems.
 
