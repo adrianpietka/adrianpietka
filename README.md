@@ -16,11 +16,6 @@
 
 ## Where I publish my things?
 
-### In English
-
-- *DEV.TO* profile: https://dev.to/adrianpietka
-- GitHub repository: https://github.com/adrianpietka
-
 ## In Polish
 
 - Articles: https://devenv.pl/
